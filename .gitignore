@@ -2,10 +2,9 @@
 
 # dependencies
 /node_modules
-gulpfile.js
-package.json
-package-lock.json
-.gitignore
+/gulpfile.js
+/package.json
+/package-lock.json
 
 # testing
 /coverage
